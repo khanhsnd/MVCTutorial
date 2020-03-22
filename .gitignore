@@ -1,3 +1,4 @@
-/MVCTutorial/obj
 /MVCTutorial/bin
-/MVCTutorial/.vs
+/MVCTutorial/obj
+*bin
+*obj
